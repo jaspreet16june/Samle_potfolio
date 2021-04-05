@@ -1,1 +1,3 @@
-# Sample_potfolio website (Unschool)
+# Sample_portfolio website (Unschool)
+
+BY: JASPREET KAUR
